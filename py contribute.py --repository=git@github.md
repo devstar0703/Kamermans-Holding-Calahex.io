@@ -1,1 +1,0 @@
-py contribute.py --repository=git@github.com:devstar0703/Kamermans-Holding-Calahex.io.git -sd="2015/11/12, 18:54:33" -nw
